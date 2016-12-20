@@ -1,3 +1,3 @@
 # fabric
 
-Just a python3 image with fabric3 installed.
+Just a python3 image with xonsh and a few sys tools installed.
